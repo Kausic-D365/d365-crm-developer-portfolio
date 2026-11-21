@@ -1,0 +1,22 @@
+
+# Visual Studio local settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Temporary and log files
+*.tmp
+*.log
+
+# Local environment and secret files
+.env
+.env.*
+
+# Node.js dependencies (if used later)
+node_modules/
