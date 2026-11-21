@@ -51,5 +51,5 @@ Practical demonstrations and tutorials related to this portfolio will be linked 
 
 ---
 
-**Goal:** Become a skilled Dynamics 365 CRM Developer through consistent learning, hands-on implementation, and real-world problem solving.
+Goal: Become a skilled Dynamics 365 CRM Developer through consistent learning, hands-on implementation, and real-world problem solving.
 
